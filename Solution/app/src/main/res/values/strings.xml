@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Surabhis ImgBrowser</string>
+    <string name="per_write_storage_desc">Please allow to read SD card</string>
+    <string name="per_write_storage">Permission</string>
+</resources>
